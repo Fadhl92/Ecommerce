@@ -124,7 +124,7 @@ import {
         <Right>
           <Title>Contact</Title>
           <ContactItem>
-            <Room style={{marginRight:"10px"}}/> 622 Dixie Path , Berlin 
+            <Room style={{marginRight:"10px"}}/> 
           </ContactItem>
           <ContactItem>
             <Phone style={{marginRight:"10px"}}/> +1 234 56 78
