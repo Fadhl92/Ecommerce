@@ -28,11 +28,6 @@ const App = () => {
       <Route path="/success" element={<Success/>}> </Route>
       <Route path="/login" element={<Login/>}>
       <Route path="/register" element={<Register/>}> </Route>
-        
-      
-  
- 
-   
     </Routes>
      </BrowserRouter>
 
